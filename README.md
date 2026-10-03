@@ -17,7 +17,7 @@ coding skills and build real projects.
 I have planned to make a Sales engine and CRM.This system is designed to help a business and manage its sales
 
 ## Education
-BS Data Science, [UET lahore], [2029r]
+BS Data Science, UET Lahore, 2029
 
 ## Contact
 - Email: shajiahbatool@gmail.com
