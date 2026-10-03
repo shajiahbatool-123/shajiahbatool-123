@@ -1,16 +1,24 @@
-## Hi there 👋
+# Shajiah Batool
 
-<!--
-**shajiahbatool-123/shajiahbatool-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Shajiah Batool, a Data Science student. I'm learning how to
+build software and work with Git and GitHub. I'm interested in logical understanding of problems, coding and problem solving.
+. This semester I want to improve my
+coding skills and build real projects.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies                 |
+|-----------|------------------------------|
+| Languages | Python, C# , SQL
+| Tools     | Git, GitHub, VS Code,Visual Studio         |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1
+I have planned to make a Sales engine and CRM.This system is designed to help a business and manage its sales
+
+## Education
+BS Data Science, [UET lahore], [2029r]
+
+## Contact
+- Email: shajiahbatool@gmail.com
+- GitHub: [@shajiahbatool-123](https://github.com/shajiahbatool-123)
